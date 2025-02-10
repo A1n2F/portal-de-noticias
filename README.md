@@ -5,3 +5,4 @@
 ![tela](https://github.com/user-attachments/assets/9a6ff358-fec7-48a4-b6df-4e2a19caf88d)
 
 Tecnologias Utilizadas: HTML. CSS.
+Trilha FullStack - Rocketseat.
