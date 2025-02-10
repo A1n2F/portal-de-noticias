@@ -7,3 +7,5 @@
 Tecnologias Utilizadas: HTML. CSS.
 
 Trilha FullStack - Rocketseat.
+
+Project: https://a1n2f.github.io/portal-de-noticias/
